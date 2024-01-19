@@ -1,5 +1,5 @@
-**Project Computational Biology I
-**
+Project Computational Biology I
+
 # Topic
 Prediction of number of medals that win by different countries using Linear Regression
 
